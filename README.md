@@ -2,8 +2,14 @@
 
 CS student @ UNAM · Faculty of Sciences
 
-(imagen)
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=9B59B6&center=true&vCenter=true&width=500&lines=Full+Stack+Dev+%7C+Cybersecurity+enthusiast;Hero%2C+villain+or+antihero%3F+TBD+%F0%9F%95%B9%EF%B8%8F;Powered+by+competitive+spark+%E2%9A%A1;Good+enough+never+feels+good+enough." alt="Typing SVG" />
+</p>
+
+---
+
+<!-- Intro -->
 I'm a Computer Science student, and honestly, I'm pretty lucky that's what I get to study. I'm passionate about a lot of things, but CS is definitely the big exception that stands above the rest.
 
 I love being a Full Stack dev, but I wanna expand my horizons a bit and eventually become one of those wise old cybersecurity gurus too (still haven't decided whether I'll end up being the hero, the villain, or the antihero though).
@@ -74,7 +80,8 @@ Collaborative urban incident reporting platform. Citizens can report potholes, b
 
 `Kotlin` `Spring Boot` `PostgreSQL` `React` `Vite` `Node.js`
 
-> Repository under school organization — available upon request.
+- 🔗 [Backend](https://github.com/Osdan-flo/OGPS-REPORTS)
+- 🔗 [Frontend](https://github.com/Osdan-flo/ogps-reports-frontend)
 
 ---
 
@@ -127,3 +134,7 @@ Interactive e-learning platform to help students prepare for high school and uni
 `Django` `Python` `JavaScript` `HTML` `CSS` `Railway`
 
 > Private repository — actively in development.
+
+---
+
+Trying to become someone who escapes the monotony, routine, and normality that life seems so determined to hand us.
