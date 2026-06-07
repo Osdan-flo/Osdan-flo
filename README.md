@@ -138,3 +138,9 @@ Interactive e-learning platform to help students prepare for high school and uni
 ---
 
 Trying to become someone who escapes the monotony, routine, and normality that life seems so determined to hand us.
+
+---
+
+## 📫 Contact
+- LinkedIn: (próximamente)
+- Email: oscar_flores@ciencias.unam.mx
