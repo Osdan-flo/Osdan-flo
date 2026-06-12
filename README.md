@@ -142,5 +142,5 @@ Trying to become someone who escapes the monotony, routine, and normality that l
 ---
 
 ## 📫 Contact
-- LinkedIn: (próximamente)
+- LinkedIn: https://www.linkedin.com/in/osdan-fl/ 
 - Email: oscar_flores@ciencias.unam.mx
